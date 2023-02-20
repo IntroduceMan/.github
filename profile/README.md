@@ -1,12 +1,12 @@
-## Hi there 👋
+# 소개맨들의 올가니제이션
 
-<!--
+### 소개맨의 룰
+1. 항상 밝은 웃음을 유지할 것
+2. 서로에게 엄격한 코드리뷰를 해줄 것
+3. 시간약속을 엄격히 준수할 것
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### 버러지들
+|신준서|김석진|강민제|강승훈|
+|:--:|:--:|:--:|:--:|
+|<img src="https://avatars.githubusercontent.com/u/102123549?v=4" width=110>|<img src="https://avatars.githubusercontent.com/u/102217654?v=4" width=110>|<img src="https://avatars.githubusercontent.com/u/102217688?v=4" width=110>|<img src="https://avatars.githubusercontent.com/u/102217780?v=4" width=110>|
+|[@SH1NJ00NSE0](https://github.com/SH1NJ00NSE0)|[@seokkamoni](https://github.com/seokkamoni)|[@hsem4717](https://github.com/hsem4717)|[@SeunghoonSeunghoon](https://github.com/SeunghoonSeunghoon)|
